@@ -1,0 +1,458 @@
+[
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/btn_close.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/btn_close.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/btn_start_3.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/btn_start_3.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/vergo.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/vergo.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/buffalo.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/buffalo.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/bacura.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/bacura.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/duval.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/duval.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/crocodile.jpg",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/crocodile.jpg"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/grid_circle.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/grid_circle.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/btn_start_2.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/btn_start_2.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/poneglyph.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/poneglyph.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/spandam.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/spandam.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/yorki.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/yorki.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/makino.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/makino.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/level_btn.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/level_btn.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/rika.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/rika.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/bluejam.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/bluejam.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/dagama.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/dagama.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/btn_start_1.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/btn_start_1.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/kong.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/kong.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/btn_start_4.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/btn_start_4.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/urouge.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/urouge.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/regis.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/regis.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/bartolomeo.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/bartolomeo.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/punkhazard.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/punkhazard.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/yarisugi.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/yarisugi.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/marineford.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/marineford.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/rockstar.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/rockstar.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/sabo.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/sabo.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/opeope.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/opeope.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/shiki.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/shiki.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/laboon.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/laboon.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/coins.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/coins.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/fishertiger.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/fishertiger.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/water7.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/water7.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/mocha.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/mocha.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/help.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/help.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/monet.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/monet.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/higuma.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/higuma.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/albion.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/albion.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/dressrosa.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/dressrosa.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/jinbe.jpg",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/jinbe.jpg"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/nekonime.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/nekonime.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/foxy.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/foxy.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/raftel.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/raftel.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/hamburg.PNG",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/hamburg.PNG"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/tom.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/tom.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/amazon.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/amazon.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/hina.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/hina.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/hannyabal.jpg",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/hannyabal.jpg"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/kagikko.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/kagikko.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/dorry.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/dorry.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/werongly.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/werongly.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/newlv.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/newlv.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/shanks.jpg",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/shanks.jpg"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/locker.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/locker.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/sentomaru.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/sentomaru.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/inazuma.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/inazuma.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/btn_find.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/btn_find.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/gnw.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/gnw.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/bg_about.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/bg_about.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/coribou.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/coribou.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/puzzle_bg.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/puzzle_bg.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/text_find.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/text_find.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/mainbg2.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/mainbg2.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/bgmain.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/bgmain.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/enel.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/enel.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/action_on_bar.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/action_on_bar.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/correctly.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/correctly.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/bellamy.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/bellamy.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/nekoweb.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/nekoweb.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/alubarna.png",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/src/main/res/drawable/alubarna.png"
+    },
+    {
+        "merged": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/muhammad/Downloads/Android Developer 2017/Sinsekai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_search_api_material.xml"
+    }
+]

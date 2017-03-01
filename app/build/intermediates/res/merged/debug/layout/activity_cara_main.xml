@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    tools:context=".CaraMain">
+    <LinearLayout
+        android:padding="10dp"
+        android:orientation="vertical"
+        android:background="#098ce4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:stretchColumns="1"
+                >
+
+                <TextView
+                    
+                    android:id="@+id/aturan"
+                    android:layout_marginBottom="7dp"
+                    android:textColor="#ffffff"
+                    android:textSize="20dp"
+                    android:textStyle="bold"
+                    android:text="Aturan Main"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:textColor="#ffffff"
+                    android:textStyle="bold"
+                    android:textSize="16dp"
+                    android:layout_marginBottom="7dp"
+                    android:text="1. Ada 2 tipe soal. Pertama soal berupa gambar, biasanya gambar tersebut berupa karakter, buah, pulau. Kedua berupa text yaitu ada beberapa clue yang di jabarkan."
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:textColor="#ffffff"
+                    android:textStyle="bold"
+                    android:textSize="16dp"
+                    android:layout_marginBottom="7dp"
+                    android:text="2. Ada 3 kali kesempatan untuk menjawab, jika ke kesempatan tersebut salah semua maka 3 soal yang sebelumnya akan terkunci kembali."
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:textColor="#ffffff"
+                    android:textStyle="bold"
+                    android:textSize="16dp"
+                    android:text="3. Ada point yang akan nakama dapatkan ketika menjawab pertanyaan dengan benar, dan point tersebut akan sangat berguna ketika chapter 2 nanti rilis. Jadi tunggu aja updatean nya nakama."
+                    android:layout_width="match_parent"
+                    android:layout_marginBottom="7dp"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:textColor="#ffffff"
+                    android:textStyle="bold"
+                    android:layout_marginBottom="7dp"
+                    android:textSize="17dp"
+                    android:text="4. Setiap level akan terdapat beberapa kesulitan, dan pada soal tertentu akan ada waktu untuk menjawab soal, sesuai tingkat kesulitan soal. Tapi tidak semua soal terdapat waktu untuk menjawabnya."
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:textColor="#ffffff"
+                    android:textStyle="bold"
+                    android:layout_marginBottom="7dp"
+                    android:textSize="17dp"
+                    android:text="5. Untuk menjawab pertanyaan dengan benar, nakama harus menjawab sesuai atuuran permainan, yaitu misal ada pertanyaan. Siapakah anggota mugiwara yang di rekrut pada peristiwa alabasta? jawabannya : nico robin , nah disini nakama tidak boleh hanya menjawab robin, atau sebutannya robin dll. Jadi intinya nakama harus jawab nama lengkap nya (BUKAN sebutan)"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+
+                <TextView
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="7dp"
+                    android:textColor="#ffffff"
+                    android:textSize="20dp"
+                    android:textStyle="bold"
+                    android:text="Kritik dan Saran"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:textColor="#ffffff"
+                    android:textStyle="bold"
+                    android:textSize="16dp"
+                    android:layout_marginBottom="50dp"
+                    android:text="Jika nakama ada kritik, saran atau masukan silahkan kirim ke ruderbytes@gmail.com"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </TableLayout>
+        </ScrollView>
+    </LinearLayout>
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adUnitId="ca-app-pub-1042691733050574/6108800454"
+        ads:adSize="BANNER">
+    </com.google.android.gms.ads.AdView>
+
+
+</RelativeLayout>

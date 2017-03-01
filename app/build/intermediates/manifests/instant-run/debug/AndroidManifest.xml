@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="id.kunya.sinsekai"
+    android:versionCode="9"
+    android:versionName="1.2" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/gnw"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity android:name="id.kunya.sinsekai.Categories" />
+        <activity android:name="id.kunya.sinsekai.About" />
+        <activity android:name="id.kunya.sinsekai.Asker" />
+        <activity android:name="id.kunya.sinsekai.Characters" />
+        <activity android:name="id.kunya.sinsekai.DetailChars" />
+        <activity android:name="id.kunya.sinsekai.Nekonime" />
+        <activity android:name="id.kunya.sinsekai.PuzzelArc" />
+        <activity android:name="id.kunya.sinsekai.Toko" />
+        <activity android:name="id.kunya.sinsekai.Daftarlevel" />
+        <!-- Include the AdActivity configChanges and theme. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity android:name="id.kunya.sinsekai.DevelopedBy" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="id.kunya.sinsekai.Home" />
+        <activity android:name="id.kunya.sinsekai.CaraMain" />
+        <activity
+            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+            android:theme="@style/Theme.IAPTheme" />
+    </application>
+
+</manifest>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:gravity="center_vertical"
+    android:layout_height="match_parent">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+    <ImageView
+        android:layout_centerHorizontal="true"
+        android:layout_width="250dp"
+        android:layout_height="230dp" />
+    <LinearLayout
+        android:gravity="center"
+        android:id="@+id/rowh1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/bt1"
+            android:text="Level 1"
+            android:textColor="#fff"
+            android:background="@drawable/puzzle_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp" />
+        <Button
+            android:textColor="#fff"
+            android:background="@drawable/puzzle_bg"
+            android:layout_toRightOf="@id/bt1"
+            android:id="@+id/bt2"
+            android:text="Level 2"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp" />
+        <Button
+            android:textColor="#fff"
+            android:background="@drawable/puzzle_bg"
+            android:layout_toRightOf="@id/bt2"
+            android:id="@+id/bt3"
+            android:text="Level 3"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/rowh2"
+        android:gravity="center"
+        android:layout_below="@id/rowh1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/bt12"
+            android:text="Level 6"
+            android:textColor="#fff"
+            android:background="@drawable/puzzle_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp" />
+        <Button
+            android:layout_toRightOf="@id/bt12"
+            android:id="@+id/bt22"
+            android:text="Level 5"
+            android:textColor="#fff"
+            android:background="@drawable/puzzle_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp" />
+        <Button
+            android:layout_toRightOf="@id/bt2"
+            android:id="@+id/bt32"
+            android:text="Level 7"
+            android:textColor="#fff"
+            android:background="@drawable/puzzle_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:gravity="center"
+        android:id="@+id/rowh3"
+        android:layout_below="@id/rowh2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/bt13"
+            android:text="Level 8"
+            android:textColor="#fff"
+            android:background="@drawable/puzzle_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp" />
+        <Button
+            android:layout_toRightOf="@id/bt13"
+            android:id="@+id/bt23"
+            android:background="@drawable/puzzle_bg"
+            android:text="Level 9"
+            android:textColor="#fff"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp" />
+        <Button
+            android:layout_toRightOf="@id/bt23"
+            android:id="@+id/bt33"
+            android:text="Level 10"
+            android:textColor="#fff"
+            android:background="@drawable/puzzle_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp" />
+    </LinearLayout>
+
+</RelativeLayout>
+    </LinearLayout>

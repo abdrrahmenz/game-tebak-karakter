@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mainbg2"
+    android:padding="25dp"
+    tools:context=".Home">
+
+    <TextView
+    android:textStyle="bold"
+    android:layout_alignParentBottom="true"
+    android:text="Kunya ID 2017"
+    android:layout_width="wrap_content"
+        android:textColor="#fff"
+    android:layout_height="wrap_content" />
+
+    <ImageView
+        android:layout_marginTop="70dp"
+        android:layout_marginBottom="20dp"
+        android:id="@+id/mainLogo"
+        android:src="@drawable/gnw"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/mainLogo"
+        android:orientation="horizontal"
+        android:id="@+id/topButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:background="@drawable/btn_start_1"
+            android:id="@+id/goNew"
+            android:textColor="#fff"
+            android:text="Mulai"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_marginRight="10dp"
+            android:layout_height="40dp" />
+        <Button
+            android:background="@drawable/btn_start_2"
+            android:id="@+id/goCara"
+            android:text="Cara Main"
+            android:layout_marginLeft="10dp"
+            android:textColor="#fff"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="40dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_below="@id/topButton"
+        android:id="@+id/underButton"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:background="@drawable/btn_start_3"
+            android:id="@+id/goAbout"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="Tentang"
+            android:textColor="#fff"
+            android:layout_marginRight="10dp"
+            android:layout_height="40dp" />
+
+        <Button
+            android:background="@drawable/btn_start_4"
+            android:id="@+id/goLogout"
+            android:text="Keluar"
+            android:textColor="#fff"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:layout_height="40dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_below="@id/underButton"
+        android:id="@+id/underButton2"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:background="@drawable/btn_start_4"
+            android:id="@+id/goDownload"
+            android:text="Download Anime"
+            android:textColor="#fff"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="40dp" />
+    </LinearLayout>
+</RelativeLayout>
